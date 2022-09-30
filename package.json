@@ -1,0 +1,17 @@
+{
+  "name": "cbs",
+  "version": "1.0.0",
+  "description": "combinations array",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "combinations",
+    "array"
+  ],
+  "author": "tabzhang@foxmail",
+  "license": "ISC",
+  "git": "git@gitee.com:GLUESTICK/cbs.git"
+}
