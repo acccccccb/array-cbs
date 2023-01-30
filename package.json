@@ -1,5 +1,5 @@
 {
-  "name": "@ihtmlcss/cbs",
+  "name": "array-cbs",
   "version": "1.0.0",
   "description": "combinations array",
   "main": "src/index.js",
