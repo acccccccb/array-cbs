@@ -1,5 +1,5 @@
 {
-  "name": "cbs",
+  "name": "@ihtmlcss/cbs",
   "version": "1.0.0",
   "description": "combinations array",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
     "combinations",
     "array"
   ],
-  "author": "tabzhang@foxmail",
-  "license": "ISC",
+  "author": "ihtmlcss.com",
+  "license": "MIT",
   "git": "git@gitee.com:GLUESTICK/cbs.git"
 }
